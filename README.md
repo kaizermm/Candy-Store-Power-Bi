@@ -5,9 +5,9 @@
 * Discover a wealth of fundamental project elements and invaluable tools on the XYZ website, propelling you toward mastery in the realm of dashboards.
 ## Project Overview
 * Develop a robust data model to facilitate data analysis and statistical evaluations, revealing insightful patterns.
-* Construct an interactive Sales Performance Dashboard that discerns trends in customer behavior on a monthly basis.
+* Construct an interactive Sales Performance Dashboard that discerns trends in customer behaviour on a monthly basis.
 * Identify the top-performing salesperson, Wilone O'Kielt, showcasing exceptional sales achievements.
-* Highlight the predominant category performance for the top salesperson, emphasizing notable success in bars sales.
+* Highlight the predominant category performance for the top salesperson, emphasizing notable success in Bar sales.
 ## Overview
 
 ![Sales Performance Dashboard](https://github.com/kaizermm/Candy-Store-Sales-Performance-Report/assets/121756502/bd88186c-74c4-4872-b811-c654c9a71ec8)
