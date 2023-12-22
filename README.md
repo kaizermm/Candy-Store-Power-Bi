@@ -1,4 +1,4 @@
-# Candy-Store-Sales-Performance-Report(Power BI)
+# Candy Store Power Bi
 ## Introduction
 * Embark on an exhilarating venture to construct a dynamic Sales Performance Dashboard, highlighting crucial metrics such as sales amounts categorized by Geography and Category, the trend of customers per Month and Region, and the identification of top-performing salespersons during the specified period.
 * Delve into the repository of my Sales Performance Dashboard, intricately designed under the seasoned guidance of Chandoo.
